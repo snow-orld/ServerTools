@@ -1,0 +1,22 @@
+{
+  "name": "kart-server-pomelo-client-protocol-logger",
+  "version": "1.0.0",
+  "description": "Statistically test kart server's availability",
+  "main": "app.js",
+  "scripts": {
+    "test": "node app"
+  },
+  "keywords": [
+    "availability",
+    "stats"
+  ],
+  "author": "Xueman Mou",
+  "license": "ISC",
+  "dependencies": {
+    "crontab": "^1.1.3",
+    "jsclient": "^1.0.0-alpha1",
+    "pomelo": "^2.2.5",
+    "pomelo-client": "0.0.3",
+    "websocket": "^1.0.25"
+  }
+}

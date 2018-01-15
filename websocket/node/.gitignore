@@ -1,0 +1,9 @@
+node_modules
+*.log
+*.csv
+
+log
+data
+img
+
+websocketClient.js
